@@ -1,0 +1,38 @@
+[
+  {
+    "id": 1,
+    "name": "Question 01",
+    "description": "Cual fue tu video juego favorito durante tu infancia?",
+    "category": {
+      "id": 1,
+      "name": "Games"
+    }
+  },
+  {
+    "id": 2,
+    "name": "Question 02",
+    "description": "What's your favorite video game? ",
+    "category": {
+      "id": 1,
+      "name": "Games"
+    }
+  },
+  {
+    "id": 3,
+    "name": "Question 03",
+    "description": "What kind of games do you like to play?",
+    "category": {
+      "id": 1,
+      "name": "Games"
+    }
+  },
+  {
+    "id": 4,
+    "name": "Question 04",
+    "description": "What was your first video game console?",
+    "category": {
+      "id": 1,
+      "name": "Games"
+    }
+  }
+]
